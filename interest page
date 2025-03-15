@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="3rd.css">
+   <title>Document</title>
+
+
+<style>
+    .h1{
+      font-family:  "Verdana", "Helvetica", "sans-serif";
+    }
+
+    body{
+    background-color: hsla(120, 60%, 30%, 1);
+}
+
+.header{
+    background-color: hsla(100, 80%, 40%, 1); /* Darker Blue */;
+    border: hsla(30, 60%, 30%, 1) 2px solid;
+   }
+
+   .text{
+    font: Georgia;
+   }
+</style>
+
+</head>
+<body>
+    
+    <div class="container">
+        <!--BACKGROUND IMAGE -->
+        
+        <div class ="header">
+        <header>
+            <h1>
+            Interest
+        </h1>
+        </header>
+    </div>
+
+
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hobbies.html">Hobbies</a></li>
+            <li><a href="interest.html">Interest</a></li>
+            <li><a href="favthings.html">Favorite things</a></li>
+            <li><a href="goals.html">Goals</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main class="content">
+        <div class="text">
+        I have interest in so many things. Like mentioned in other places in the website, my main interest is automobile.
+        </div>
+        <div class="text">
+        I've always thought firearms were pretty cool.
+        </div>
+        <div class="text">
+        Coding on computers interest me because of the scalability in the skill as well as the financial freedom it brings.
+        Over the past two years, my interest in coding has grown <span style="color:blue"> tremendously</span>.
+        </div>
+        
+         
+</main>
+
+
+
+
+<footer>Footer</footer>
+    
+</div>
+
+<!--Content of webpage-->
+
+
+
+</body>
+</html>
