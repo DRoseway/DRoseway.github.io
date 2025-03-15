@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Document</title>
+<style>
+    .content{
+    background-color: #000FF0;
+    font-weight:500px;
+    
+    }
+
+    body{
+    background-color: #1693db;
+}
+
+.header{
+    background-color: #000FF0;
+    border: black 2px solid;
+   }
+
+   .text{
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+   }  
+
+   .images{
+    border: black 4px;
+    margin-top: 20px;
+
+   
+border-style: outset;
+}
+</style>
+
+
+</head>
+<body>
+    
+    <div class="container">
+        <!--BACKGROUND IMAGE -->
+        
+        <div class ="header">
+        <header>
+            <h1>
+            Hobbies
+        </h1>
+        </header>
+    </div>
+
+
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hobbies.html">Hobbies</a></li>
+            <li><a href="interest.html">Interest</a></li>
+            <li><a href="favthings.html">Favorite things</a></li>
+            <li><a href="goals.html">Goals</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main class="content">
+    <div class="text"> 
+       Cars are my biggest interest so I often watch car videos.
+       These videos can be street racing, DIY maintenance, polic chases, project cars videos, car reviews, etc.
+        I like to Exercise. I run the treadmill for cardio and practice calisthenics for cardo and muscle building.
+        During my free time, if I'm not doing one of the other two activities mentioned above, I'll enjoy myself by playing video games, 
+        code on my computer to challenge myself, or read comics.
+        <div >
+        <img class="images" src="images/cargame.jpg" alt ="car game" height="200px" width="200px">
+        <img class="images" src="images/Push Up Bars.jpg" alt ="car game" height="200px" width="200px">
+        <img class="images" src="images/coding 💻🎧.jpg" alt ="car game" height="200px" width="200px">
+        </div>
+    </div>
+        
+    </main>
+
+
+
+
+<footer>Footer</footer>
+    
+</div>
+
+
+
+
+</body>
+</html>
