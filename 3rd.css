@@ -1,0 +1,18 @@
+footer{
+    background-color:hsla(120, 60%, 30%, 1) ;
+}
+
+.text{
+        
+        border : 2px solid brown;
+        border-radius: 20px;
+        border-style: groove;
+        width: 100%;
+        color: brown;
+        background-color: white
+    }
+
+    .content{
+        background-color: hsla(100, 80%, 40%, 1);
+
+    }
